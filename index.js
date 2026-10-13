@@ -6,7 +6,7 @@
 // 2
 
 // const favoriteFood = "Burger"
-// console.log("favoriteFood")
+// console.log(favoriteFood)
 
 // 3
 
@@ -481,5 +481,5 @@
 
 // 86
 
-const month = 157
-console.log(Number(month / 12).toFixed(0), Number(month % 12));
+// const month = 157
+// console.log(Number(month / 12).toFixed(0), Number(month % 12));
